@@ -29,5 +29,12 @@
     "typescript": "^5.3.3",
     "vite": "^5.0.6"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "resolutions": {
+    "picomatch": "^2.3.2",
+    "anymatch/picomatch": "^2.3.2",
+    "jest-util/picomatch": "^2.3.2",
+    "micromatch/picomatch": "^2.3.2",
+    "readdirp/picomatch": "^2.3.2"
+  }
 }
